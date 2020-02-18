@@ -88,25 +88,25 @@ projects:
     intro: >
       below is a list of project open-source and personal projects.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Sentry-Dotnet
+        link: "#https://github.com/getsentry/sentry-dotnet/pull/289"
+        tagline: "Sentry provides self-hosted and cloud-based error monitoring that helps all software, teams discover, triage, and prioritize errors in real-time"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: BenchmarkDotNet
+        link: "#https://github.com/dotnet/BenchmarkDotNet/pull/1292"
+        tagline: "BenchmarkDotNet​ helps you to transform methods into benchmarks, track their performance, and share reproducible measurement experiments."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Random walk visualization with WebGL
+        link: "#https://github.com/arduosoft/RawCMS"
+        tagline: "The random walk is a mathematical concept from probability and  statistics, I want to learn WebGL to build some web games. so I  started with this. "
 
-      - title: Atom
+      - title: E-sport cafe management
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "RawCMS is the headless CMS written in asp.net core build for developers that embrace API first technology I have a couple of contributions to this project then I got the opportunity to be an official member of the project."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: MFNotif
+        link: "#https://github.com/chan18/MFNotif"
+        tagline: " a simple prototype that sends email and SMS based on events integrated Twilio and SendGrid for sending SMS and emails. used expressjs."
 
 publications:
     title: Publications
