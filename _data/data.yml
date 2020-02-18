@@ -108,27 +108,9 @@ projects:
         link: "#https://github.com/chan18/MFNotif"
         tagline: " a simple prototype that sends email and SMS based on events integrated Twilio and SendGrid for sending SMS and emails. used expressjs."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Captcha Solver
+        link: "#https://github.com/chan18/captchasolver/tree/master"
+        tagline: "build a simple python service that crawls website and solves captha1. it downloads the image. uses Tesseract-OCR and convert scan and fetch the char from the image and"
 
 skills:
     title: Skills &amp; Proficiency
