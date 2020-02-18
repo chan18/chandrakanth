@@ -3,95 +3,77 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Chandra Kanth Pasunuru
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: p.chan20new@gmail.com
+    phone: 630 1411 240
+    website:  #do not add http://
+    linkedin: chandra-kanth-chandra-kanth-730a0a49
+    github: chan18
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@pasunur'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Telegu
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: palying fps vidoe games.
         link:
 
-      - item: Snowboarding
+      - item: gym
         link:
 
-      - item: Cooking
+      - item: contributing to open source.
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Well-qualified Full Stack Developer familiar with a wide range of programming utilities and languages.
+      Knowledgeable of backend and frontend development requirements.
+      Able to handle any part of the process with ease.
+      Collaborative team player with excellent technical abilities offering 2+ years of related experience.
+      Systems architect with expertise in requirement gathering and analysis, architectural,
+      component and interface design and development for web-based applications in multiple domains.
+       [resume](https://docs.google.com/document/d/17k57GNEH80EUBRmz00twtOSIsQ8izZh4JrhqaxPeXWk/edit?usp=sharing).
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: B.tech Mathematics and Computer Science
+      university: Jawaharlal Nehru Technological University, Hyderabad
+      time: 2013 - 2017
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Full stack developer
+      time: NOVEMBER 2018 - FEBRUARY 2020
+      company: Kavayah solutions.inc, Hyderabad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        I am a full stack developer, my role is to build a web app for law firms,
+        requirements and interaction with clients are done by my manager.
+        Discussing and implementing features with dotnetcore and angular with typescript every day.
+        After every deployment QA test the app. In case of any issues,
+        I will fix the bugs I got opportunities to work in different languages and tech stacks in multiple projects,I can quickly learn any programing language and tech stack on the fly as project progress.
+        - Project 1:(Ergon)
+        a law firm domain needs a web app that can improve their workflow. participated in developing and architecting database design, dotnet core with the angular.
+        My responsibility is to translate business requirements into code. Web application design is built by a designer implemented with angular by me. After every deployment, the features are tested by  QA/tester
+        - Project ​2: ​(Big data analytics) [​PRODUCT​]
+        built an amazon crawler with a python-selenium framework collect data with the searched keyword pass it to the Hadoop service.
+        visualize data with D3JS and DCJS. used expressjs for the backend collected data is stored in the MongoDB database
+        - Subproject (block-chain)[POC]
+        My role was to collaborate with blockchain developers to build user dashboard.
+        it had three dashboards with the WIJMO grid and forms. each representing an organization in law firm and blockchain network.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -103,23 +85,10 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      below is a list of project i worked in 
     assignments:
       - title: Velocity
         link: "#hook"
