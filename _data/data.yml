@@ -106,7 +106,7 @@ projects:
 
       - title: E-sport cafe management
         link: "#"
-        tagline: "RawCMS is the headless CMS written in asp.net core build for developers that embrace API first technology I have a couple of contributions to this project then I got the opportunity to be an official member of the project."
+        tagline: "built with dotnetcore with xaml as desktop application, angluar and dotnet core for back end."
 
       - title: MFNotif
         link: "https://github.com/chan18/MFNotif"
