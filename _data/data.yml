@@ -32,14 +32,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: palying fps vidoe games.
-        link:
-
-      - item: gym
-        link:
-
-      - item: contributing to open source.
-        link:
+      - item: remote jobs as full stack developer, mid to senior role.
 
 career-profile:
     title: Career Profile
@@ -88,7 +81,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      below is a list of project i worked in 
+      below is a list of project open-source and personal projects.
     assignments:
       - title: Velocity
         link: "#hook"
