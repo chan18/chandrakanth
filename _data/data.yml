@@ -53,11 +53,11 @@ experiences:
       time: NOVEMBER 2018 - FEBRUARY 2020
       company: Kavayah solutions.inc, Hyderabad
       details: |
-        I am a full stack developer, my role is to build a web app for law firms,
+        I am a full stack developer at kavayah solutions, my role is to build a web application for law firms,
         requirements and interaction with clients are done by my manager.
         Discussing and implementing features with dotnetcore and angular with typescript every day.
-        After every deployment QA test the app. In case of any issues,
-        I will fix the bugs I got opportunities to work in different languages and tech stacks in multiple projects,I can quickly learn any programing language and tech stack on the fly as project progress.
+        After every deployment QA test the application. In case of any issues, we will fix the bugs I got opportunities to work in different languages and tech stacks in multiple projects, 
+        I can quickly learn any programing language and tech stack on the fly as project progress.
         - Project 1:(Ergon)
         a law firm domain needs a web app that can improve their workflow. participated in developing and architecting database design, dotnet core with the angular.
         My responsibility is to translate business requirements into code. Web application design is built by a designer implemented with angular by me. After every deployment, the features are tested by  QA/tester
@@ -71,9 +71,9 @@ experiences:
       time: JULY 2017 - NOVEMBER 2018
       company: Betalectic, Hyderabad
       details: |
-        This was my first opportunity as a web developer, It was a startup which I got chance to work with laravel PHP, vuejs,
-        MySQL with ORM built more the 2 apps with laravel stack worked with many differnet javascript libararys.
-        Got lot more exposre building with care and responsibility.
+        This was my first opportunity as a web developer, It was a startup in which I got a chance to work with laravel PHP, vuejs, MySQL with ORM built more the 2 web applications with laravel stack worked with many different javascript libraries. 
+        I got a lot more exposure building with care and responsibility.
+        Very fast phased environment. With more features to build and more responsibility to take.
         - Project 1:  (ahamlearning)
         An EduTech domain.
         participated in requirement gathering/client meetings, architect,  database design, implementation and followed through SDLC with agile development.
@@ -86,7 +86,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      below is a list of project open-source that I have contributed too and personal projects.
+      below is a list of projects, mix of open-source and personal projects.
     assignments:
       - title: Sentry-Dotnet
         link: "https://github.com/getsentry/sentry-dotnet/pull/289"
