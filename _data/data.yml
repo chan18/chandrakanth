@@ -86,7 +86,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      below is a list of project open-source and personal projects.
+      below is a list of project open-source that I have contributed too and personal projects.
     assignments:
       - title: Sentry-Dotnet
         link: "https://github.com/getsentry/sentry-dotnet/pull/289"
