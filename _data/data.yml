@@ -68,7 +68,7 @@ experiences:
         My role was to collaborate with blockchain developers to build user dashboard.
         it had three dashboards with the WIJMO grid and forms. each representing an organization in law firm and blockchain network.
     - role: Full stack developer
-      time: NOVEMBER 2018 - FEBRUARY 2020
+      time: JULY 2017 - NOVEMBER 2018
       company: Betalectic, Hyderabad
       details: |
         This was my first opportunity as a web developer, It was a startup which I got chance to work with laravel PHP, vuejs,
@@ -106,7 +106,7 @@ projects:
 
       - title: E-sport cafe management
         link: "#"
-        tagline: "built with dotnetcore with xaml as desktop application, angluar and dotnet core for back end."
+        tagline: "built with dotnetcore with xaml as desktop application, angluar and dotnetcore for back end."
 
       - title: MFNotif
         link: "https://github.com/chan18/MFNotif"
