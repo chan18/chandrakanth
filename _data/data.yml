@@ -71,17 +71,17 @@ experiences:
       time: NOVEMBER 2018 - FEBRUARY 2020
       company: Betalectic, Hyderabad
       details: |
-      This was my first opportunity as a web developer, It was a startup which I got chance to work with laravel PHP, vuejs,
-      MySQL with ORM built more the 2 apps with laravel stack worked with many differnet javascript libararys.
-      Got lot more exposre building with care and responsibility.
-      - Project 1:  (ahamlearning)
-      An EduTech domain.
-      participated in requirement gathering/client meetings, architect,  database design, implementation and followed through SDLC with agile development.
-      implemented various dashboards, Using laravel + vuejs and other PHP packages and javascript libraries.developed visualization with d3js.  developed class scheduler features with jquery/calendar plugin etc.
-      integrated themes using laravel mix, bower, etc.
-      - Project 2:
-      participated in requirement gathering, planning, feature time estimation, Design, and development of database architecture implemented an email parser with a mailgun to catch email and parsed with Symfony  DomCrawler Package. implemented a phantomjs + expressjs microservice to browse through Amazon product page, parsing questions, etc, get and post verbs.
-       integrated a vuejs theme using laravel  mix configured babel plugins etc
+        This was my first opportunity as a web developer, It was a startup which I got chance to work with laravel PHP, vuejs,
+        MySQL with ORM built more the 2 apps with laravel stack worked with many differnet javascript libararys.
+        Got lot more exposre building with care and responsibility.
+        - Project 1:  (ahamlearning)
+        An EduTech domain.
+        participated in requirement gathering/client meetings, architect,  database design, implementation and followed through SDLC with agile development.
+        implemented various dashboards, Using laravel + vuejs and other PHP packages and javascript libraries.developed visualization with d3js.  developed class scheduler features with jquery/calendar plugin etc.
+        integrated themes using laravel mix, bower, etc.
+        - Project 2:
+        participated in requirement gathering, planning, feature time estimation, Design, and development of database architecture implemented an email parser with a mailgun to catch email and parsed with Symfony  DomCrawler Package. implemented a phantomjs + expressjs microservice to browse through Amazon product page, parsing questions, etc, get and post verbs.
+        integrated a vuejs theme using laravel  mix configured babel plugins etc
 
 projects:
     title: Projects
