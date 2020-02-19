@@ -138,7 +138,7 @@ skills:
       - name: php
         level: 60%
 
-      - name: c#
+      - name: c# with dotnetcore
         level: 60%
 
       - name: database with ORM and ODM
