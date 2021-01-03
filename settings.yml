@@ -1,0 +1,8 @@
+Host: chandu.cc
+LinksUseHttps: true
+MirrorResources: true
+// EditLink: => "https://github.com/statiqdev/statiqdev.github.io/edit/develop/input/" + doc.Source.GetRelativeInputPath()
+GitHubOwner: chan18
+GitHubName: chandrakanth
+GitHubToken: => Config.FromSetting<string>("GITHUB_TOKEN")
+GitHubBranch: main
