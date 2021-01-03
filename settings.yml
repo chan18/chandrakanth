@@ -1,8 +1,0 @@
-Host: chandu.cc
-LinksUseHttps: true
-MirrorResources: true
-EditLink: => "https://github.com/chan18/chandrakanth/tree/master/input",
-GitHubOwner: chan18
-GitHubName: chandrakanth
-GitHubToken: => Config.FromSetting<string>("GITHUB_TOKEN")
-GitHubBranch: master
