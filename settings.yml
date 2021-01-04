@@ -1,0 +1,7 @@
+Host: chandu.cc
+LinksUseHttps: true
+MirrorResources: true
+GitHubOwner: chan18
+GitHubName: chandrakanth
+GitHubToken: => Config.FromSetting<string>("GITHUB_TOKEN")
+GitHubBranch: main
