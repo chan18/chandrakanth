@@ -1,5 +1,6 @@
 Title: What is Cloud Computing
 Description:
+Published: 05 January 2021
 Lead: A history and an introduction to cloud computing
 Tags: cloud computing
 ---
@@ -16,7 +17,7 @@ Principle of cloud computing behind this model is to offer computing, storage an
 
 # Types of cloud computing
 
-<a href="https://imgur.com/J6bx3i3"><img src="https://i.imgur.com/J6bx3i3.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/2ioC9U8"><img src="https://i.imgur.com/2ioC9U8.png" title="source: imgur.com" /></a>
 
 **SaaS** (Software as a service ): Self- service with zero operations. Software with no installation, no patch, and operations.<br/>
 **IaaS** (Infrastructure as a service ): Agile, on-demand infrastructure. Get things based on your business needs. Very flexible.<br/>
@@ -24,7 +25,7 @@ Principle of cloud computing behind this model is to offer computing, storage an
 **CaaS** (Container as a service): Intelligent machinery for diverse workloads. This machinery helps developers handle all types of workloads. It might not be suitable for other environments, though. Ex:- Kubernetes.<br/>
 **FaaS** (Function as a service): Pay-per-use code used for execution only. It is used when something is running as it also makes development fast and easy. ( serverless computing ) <br/>
 
-<a href="https://imgur.com/EWQ1Fu9"><img src="https://i.imgur.com/EWQ1Fu9.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/wyvifCD"><img src="https://i.imgur.com/wyvifCD.png" title="source: imgur.com" /></a>
 
 # Summary
 
