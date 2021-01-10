@@ -7,7 +7,7 @@ Lead: I am a full stack engineer and open source enthusiastic
 
 But i am interested in various different technologies in the computer science and software industry. These are some of the interesting areas that i blog, Talk and build my side project around.
 
-**Languages** c99, C#, Javascript, Typescript 
+**Languages** c99, C#, Javascript, Typescript, SQL
 
 **frameworks** .Net Core, Angular
 

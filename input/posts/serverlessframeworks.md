@@ -11,7 +11,7 @@ serverless frameworks that can work on any major service cloud provider like Ama
 
 **Amplify Framework** :- [Amzon Amplify](https://docs.amplify.aws/)  lib’s, tools and components for AWS-powered cloud apps in serverless specifically.
 
-**Spring Cloud Function**:-  spring framework with function friendly  adapters for different clouds dynamic compilation of functions and mechanisms for invoking them for HTTP and messaging source.
+**Spring Cloud Function**:-  [spring framework](https://spring.io/projects/spring-cloud-function) with function friendly  adapters for different clouds dynamic compilation of functions and mechanisms for invoking them for HTTP and messaging source.
 
 **Claudia js**:- [Claudiajs](https://www.claudiajs.com/)  nodejs projects  it automates some key things for deployment and configuration of the API gateway specifically.
 
@@ -19,7 +19,7 @@ serverless frameworks that can work on any major service cloud provider like Ama
 
 **Stackery**:-  [Stackery](https://www.stackery.io/) for operational management like building, deployment of systems.
 
-**IOpipe**:-  [Iopipe](https://www.iopipe.com/) used to building operating functions helps with development.
+**Iopipe**:-  [Iopipe](https://www.iopipe.com/) used to building operating functions helps with development.
 
 **Sigma IDE**:- [Slappforge](https://www.slappforge.com/sigma) used for building serverless systems and managing serverless systems, with graphical way to build it things.
 
