@@ -4,7 +4,26 @@
 	<title />
 	<link rel="self" href="/" />
 	<rights>2021</rights>
-	<updated>2021-01-09T17:53:20Z</updated>
+	<updated>2021-01-10T13:10:35Z</updated>
+	<entry>
+		<id>/posts/serverlessframeworks</id>
+		<title>Serverless Frameworks</title>
+		<link href="/posts/serverlessframeworks" />
+		<updated>2021-01-10T18:35:12Z</updated>
+		<content>&lt;h1 id="serverless-frameworks"&gt;Serverless Frameworks.&lt;/h1&gt;
+&lt;p&gt;serverless frameworks that can work on any major service cloud provider like Amazon, azure, Cloudflare etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Amplify Framework&lt;/strong&gt; :- &lt;a href="https://docs.amplify.aws/"&gt;Amzon Amplify&lt;/a&gt;  lib’s, tools and components for AWS-powered cloud apps in serverless specifically.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spring Cloud Function&lt;/strong&gt;:-  &lt;a href="https://spring.io/projects/spring-cloud-function"&gt;spring framework&lt;/a&gt; with function friendly  adapters for different clouds dynamic compilation of functions and mechanisms for invoking them for HTTP and messaging source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Claudia js&lt;/strong&gt;:- &lt;a href="https://www.claudiajs.com/"&gt;Claudiajs&lt;/a&gt;  nodejs projects  it automates some key things for deployment and configuration of the API gateway specifically.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubyonjets&lt;/strong&gt;:- &lt;a href="https://rubyonjets.com/"&gt;Rubyonjets&lt;/a&gt;  is for building serverless with ruby language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stackery&lt;/strong&gt;:-  &lt;a href="https://www.stackery.io/"&gt;Stackery&lt;/a&gt; for operational management like building, deployment of systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iopipe&lt;/strong&gt;:-  &lt;a href="https://www.iopipe.com/"&gt;Iopipe&lt;/a&gt; used to building operating functions helps with development.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sigma IDE&lt;/strong&gt;:- &lt;a href="https://www.slappforge.com/sigma"&gt;Slappforge&lt;/a&gt; used for building serverless systems and managing serverless systems, with graphical way to build it things.&lt;/p&gt;
+&lt;h1 id="summary"&gt;Summary&lt;/h1&gt;
+&lt;p&gt;there are many many frameworks out there that support serverless technology, In fact, every popular web programming language as some sort of open-source framework.&lt;/p&gt;
+</content>
+		<summary>10 January 2021</summary>
+	</entry>
 	<entry>
 		<id>/posts/faas</id>
 		<title>What is FaaS</title>

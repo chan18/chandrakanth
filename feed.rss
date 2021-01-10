@@ -5,8 +5,28 @@
 		<link>/</link>
 		<description />
 		<copyright>2021</copyright>
-		<pubDate>Sat, 09 Jan 2021 17:53:20 GMT</pubDate>
-		<lastBuildDate>Sat, 09 Jan 2021 17:53:20 GMT</lastBuildDate>
+		<pubDate>Sun, 10 Jan 2021 13:10:35 GMT</pubDate>
+		<lastBuildDate>Sun, 10 Jan 2021 13:10:35 GMT</lastBuildDate>
+		<item>
+			<title>Serverless Frameworks</title>
+			<link>/posts/serverlessframeworks</link>
+			<description>10 January 2021</description>
+			<guid isPermaLink="false">/posts/serverlessframeworks</guid>
+			<pubDate>Sun, 10 Jan 2021 18:35:12 GMT</pubDate>
+			<content:encoded>&lt;h1 id="serverless-frameworks"&gt;Serverless Frameworks.&lt;/h1&gt;
+&lt;p&gt;serverless frameworks that can work on any major service cloud provider like Amazon, azure, Cloudflare etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Amplify Framework&lt;/strong&gt; :- &lt;a href="https://docs.amplify.aws/"&gt;Amzon Amplify&lt;/a&gt;  lib’s, tools and components for AWS-powered cloud apps in serverless specifically.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spring Cloud Function&lt;/strong&gt;:-  &lt;a href="https://spring.io/projects/spring-cloud-function"&gt;spring framework&lt;/a&gt; with function friendly  adapters for different clouds dynamic compilation of functions and mechanisms for invoking them for HTTP and messaging source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Claudia js&lt;/strong&gt;:- &lt;a href="https://www.claudiajs.com/"&gt;Claudiajs&lt;/a&gt;  nodejs projects  it automates some key things for deployment and configuration of the API gateway specifically.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubyonjets&lt;/strong&gt;:- &lt;a href="https://rubyonjets.com/"&gt;Rubyonjets&lt;/a&gt;  is for building serverless with ruby language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stackery&lt;/strong&gt;:-  &lt;a href="https://www.stackery.io/"&gt;Stackery&lt;/a&gt; for operational management like building, deployment of systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iopipe&lt;/strong&gt;:-  &lt;a href="https://www.iopipe.com/"&gt;Iopipe&lt;/a&gt; used to building operating functions helps with development.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sigma IDE&lt;/strong&gt;:- &lt;a href="https://www.slappforge.com/sigma"&gt;Slappforge&lt;/a&gt; used for building serverless systems and managing serverless systems, with graphical way to build it things.&lt;/p&gt;
+&lt;h1 id="summary"&gt;Summary&lt;/h1&gt;
+&lt;p&gt;there are many many frameworks out there that support serverless technology, In fact, every popular web programming language as some sort of open-source framework.&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
 		<item>
 			<title>What is FaaS</title>
 			<link>/posts/faas</link>
