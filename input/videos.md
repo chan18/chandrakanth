@@ -4,7 +4,8 @@ Lead: Tech talk videos,  Project related vidoes, Gaming videos, Product Demo vid
 ---
 
 
-
+<p>
+<h2> <a href="https://en.wikipedia.org/wiki/Battlefield_1"> Battlefiled 1 </a> </h2>
  <iframe width="560"
          height="315"
          frameborder="0"
@@ -12,7 +13,18 @@ Lead: Tech talk videos,  Project related vidoes, Gaming videos, Product Demo vid
          allowfullscreen
          src="https://www.youtube.com/embed/9i2LVL4i55w">
 </iframe>
+</p>
 
+<p>
+<h2> <a href="https://en.wikipedia.org/wiki/Titanfall_2">Titanfall 2 </a> <h2>
+ <iframe width="560"
+         height="315"
+         frameborder="0"
+         allow="autoplay; encrypted-media"
+         allowfullscreen
+         src="https://www.youtube.com/embed/apFeD14LeUc">
+</iframe>
+</p>
 
 
 
