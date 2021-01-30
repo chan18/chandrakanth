@@ -1,6 +1,6 @@
-Title: Introduction and Phases of compiler
+Title: Introduction to language processing and Phases of compiler
 Description:
-Lead: Introduction and Phases of compiler Part - 1
+Lead: Introduction to language processing and Phases of compiler Part - 1
 Tags: compiler
 IsPost: true
 ---

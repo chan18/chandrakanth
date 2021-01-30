@@ -13,5 +13,5 @@ I mostly do full stack development in my job, But i am interested in various dif
 
 **Computer Science** Automata theory, Compiler design, operating system, Distributed and cloud computing, Networking and security, Computer Architecture, Computer Graphics.
 
-**Software Development** Web application development, Open source Development, SDK development, API development, Game engine and simulator development,  Memory Hacking, System Deisgn, Query optamization, Dev Tools.
+**Software Development** Web application development, Open source Development, SDK development, API development, Game engine and simulator development,  Memory Hacking, System Design, Query optimization, Dev Tools.
 

@@ -22,7 +22,7 @@ Today we use serverless managed services that process event streams since functi
 
 <a href="https://imgur.com/MP9vnnz"><img src="https://i.imgur.com/MP9vnnz.png" title="source: imgur.com" /></a>
 
-**3 - tier web apps** or often SPA or sites that talk to serverless storage. Only invoked and run when someone uses it. a tepical 3 tier web app
+**3 - tier web apps** or often SPA or sites that talk to serverless storage. Only invoked and run when someone uses it. a typical 3 tier web app
 
 <a href="https://imgur.com/SrvMjnk"><img src="https://i.imgur.com/SrvMjnk.png" title="source: imgur.com" /></a>
 

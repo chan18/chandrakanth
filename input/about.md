@@ -13,5 +13,5 @@ But i am interested in various different technologies in the computer science an
 
 **Computer Science** Automata Theory, Compiler Design, Operating system, Distributed and Cloud Computing, Networking and Security, Computer Architecture, Computer Graphics.
 
-**Software Development** Web application development, Open source Development, SDK Development, API development, Game Engine and Simulator Development,  Memory Hacking, System Deisgn, Query Optamization, Dev Tools.
+**Software Development** Web application development, Open source Development, SDK Development, API development, Game Engine and Simulator Development,  Memory Hacking, System Design, Query optimization, Dev Tools.
 
