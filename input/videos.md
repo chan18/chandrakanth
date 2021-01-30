@@ -2,8 +2,6 @@ Title: Videos
 Description:
 Lead: Tech talk videos,  Project related vidoes, Gaming videos, Product Demo videos.
 ---
-
-
 <p>
 <h2> <a href="https://en.wikipedia.org/wiki/Battlefield_1"> Battlefiled 1 </a> </h2>
  <iframe width="560"
